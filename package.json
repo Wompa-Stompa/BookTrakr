@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "apollo-client": "^2.6.10",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "graphql": "^15.8.0",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.1"
+  },
+  "name": "booktrakr",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wompa-Stompa/BookTrakr.git"
+  },
+  "author": "Chris Broussard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wompa-Stompa/BookTrakr/issues"
+  },
+  "homepage": "https://github.com/Wompa-Stompa/BookTrakr#readme"
+}
